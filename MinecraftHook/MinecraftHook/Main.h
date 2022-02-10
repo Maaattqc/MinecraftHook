@@ -10,7 +10,7 @@
 #ifndef AAA_HEADER
 #define AAA_HEADER
 #include <windows.h>
-#include "JNI/jni.h"
+#include "jni.h"
 class Main{
 public:
 	JavaVM* vm;
