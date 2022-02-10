@@ -155,6 +155,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="functions.h" />
+    <ClInclude Include="jni.h" />
+    <ClInclude Include="jni_md.h" />
     <ClInclude Include="Main.h" />
   </ItemGroup>
   <ItemGroup>
